@@ -1,4 +1,4 @@
-package com.webcontrol;
+package com.webcontrol.javaxxz;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
